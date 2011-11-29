@@ -1,0 +1,80 @@
+﻿html
+{
+	height:100%;
+}
+
+body
+{
+	height:100%;
+	padding:0px;
+	border:0px;
+	margin:0px;
+	background-color:#a2f860;
+	font-family:"Courier New", Courier, monospace;
+}
+
+.page
+{
+	font-family:"Courier New", Courier, monospace;
+	background-color:#a2f860;
+	color:#307b25;
+	margin:0px;
+	padding:0px;
+	height:100%;
+	width:100%;
+}
+
+.banner
+{
+	background-color:#45f945;
+	font-family:"Courier New", Courier, monospace;
+	font-size:30px;
+	text-align:right;
+	height:60px;
+}
+
+.banner-text
+{
+	color: white;
+	font-weight:bold;
+	margin:4px;
+}
+
+.navigation-bar
+{
+	margin:0px;padding:0px;border:0px;
+	background-color:#45e945;
+	margin:0px;
+	padding:0px;
+}
+
+.navigation-container
+{
+	border:1px white solid;
+	background-color:#307b25;
+	padding: 10px;
+}
+
+.navigation-link
+{
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.content-header
+{
+	color:white;
+	font-weight:bold;
+	font-size:x-large;
+	padding:10px;
+	background-color:lime;
+}
+
+.content
+{
+	background-color:lime;
+	vertical-align:top;
+	height:100%;
+	padding:10px;
+}
